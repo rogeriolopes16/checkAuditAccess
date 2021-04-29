@@ -2,7 +2,6 @@ settings/
 .idea/
 venv/
 bkp/
-reports/
-result/
-results/
+*.txt
+*.csv
 *.bat
