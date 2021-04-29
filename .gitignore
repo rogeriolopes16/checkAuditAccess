@@ -1,0 +1,8 @@
+settings/
+.idea/
+venv/
+bkp/
+reports/
+result/
+results/
+*.bat
